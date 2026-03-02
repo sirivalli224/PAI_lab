@@ -1,0 +1,13 @@
+Enter capacity of jug 1: 4
+Enter capacity of jug 2: 3
+Enter target amount: 2
+Steps to reach the target:
+(0, 0)
+(4, 0)
+(4, 3)
+(0, 3)
+(3, 0)
+(3, 3)
+(4, 2)
+
+=== Code Execution Successful ===
