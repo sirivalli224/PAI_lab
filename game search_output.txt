@@ -1,0 +1,30 @@
+  |   |  
+--+---+--
+  |   |  
+--+---+--
+  |   |  
+
+Enter position (0-8): 0
+X |   |  
+--+---+--
+  | O |  
+--+---+--
+  |   |  
+
+Enter position (0-8): 1
+X | X | O
+--+---+--
+  | O |  
+--+---+--
+  |   |  
+
+Enter position (0-8): 3
+X | X | O
+--+---+--
+X | O |  
+--+---+--
+O |   |  
+
+Result: O
+
+=== Code Execution Successful ===
