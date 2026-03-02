@@ -1,0 +1,8 @@
+ color mapping:
+
+A => red
+B => green
+C => blue
+D => red
+
+=== Code Execution Successful ===
