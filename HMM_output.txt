@@ -1,0 +1,3 @@
+=== RESTART: C:\Users\AIMLLAB2\AppData\Local\Programs\Python\Python311\HMM.py ==
+Probability of observation sequence: 0.033612
+
